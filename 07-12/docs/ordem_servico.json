@@ -1,0 +1,21 @@
+{
+    "ordemServico": [
+        {
+            "id": 4,
+            "funcionario": 2,
+            "descricao": "Trocar porta...",
+            "custo": 150
+        },
+        {
+            "id": 5,
+            "funcionario": 2,
+            "descricao": "Istalar piso...",
+            "custo": 680
+        },
+        {
+            "nome": "Juliana",
+            "especialidade": "Pedreiro/a",
+            "id": 2
+        }
+    ]
+}
